@@ -1,6 +1,6 @@
 ### Hello there!
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+![](/hello-there.gif)  
 
 ![](https://komarev.com/ghpvc/?username=shubham-awasthi-unity)
 
